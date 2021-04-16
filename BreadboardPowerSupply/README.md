@@ -9,11 +9,7 @@
 ## My final design
 
 ![alt text](https://github.com/0xmaia/ME30/blob/main/BreadboardPowerSupply/BreadboardPowerSupply_Layout.jpg)
-
-<p align="center'>
-          *Breadboard Power Supply Layout*
-</p>
-         
+*Breadboard Power Supply Layout*
 
 ![alt text](https://github.com/0xmaia/ME30/blob/main/BreadboardPowerSupply/PowerSupply.png)
 *Breadboard Power Supply Render*
